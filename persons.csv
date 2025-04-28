@@ -1,0 +1,150 @@
+Name;Age;City;Street
+Alice;25;New York;123 Main St
+Bob;30;Los Angeles;456 Elm St
+Charlie;22;Chicago;789 Oak St
+David;35;San Francisco;101 Pine St
+Eve;28;Miami;202 Palm St
+Frank;40;Seattle;303 Maple St
+Grace;27;Boston;404 Cedar St
+Helen;32;Dallas;505 Birch St
+Isaac;29;Denver;606 Walnut St
+Jane;26;Atlanta;707 Spruce St
+Kevin;33;Houston;808 Pineapple St
+Lucy;31;Phoenix;909 Peach St
+Michael;24;Detroit;111 Plum St
+Nancy;38;Portland;121 Cherry St
+Olivia;23;Las Vegas;131 Berry St
+Paul;36;Minneapolis;141 Olive St
+Quinn;21;Philadelphia;151 Lemon St
+Rachel;34;San Diego;161 Orange St
+Steve;37;Austin;171 Strawberry St
+Tina;20;Nashville;181 Grape St
+Ursula;39;New Orleans;191 Blueberry St
+Victor;50;Orlando;201 Watermelon St
+Wendy;45;Memphis;211 Mango St
+Xander;42;Kansas City;221 Kiwi St
+Yara;47;Salt Lake City;231 Dragonfruit St
+Zack;48;Indianapolis;241 Blackberry St
+Amy;44;Charlotte;251 Raspberry St
+Ben;46;Columbus;261 Cranberry St
+Cathy;43;Milwaukee;271 Boysenberry St
+Dylan;49;Baltimore;281 Gooseberry St
+Emma;55;Raleigh;291 Strawberry St
+Finn;51;Tampa;301 Blueberry St
+Gina;58;Pittsburgh;311 Watermelon St
+Henry;53;Oakland;321 Papaya St
+Ivy;52;Sacramento;331 Guava St
+Jake;59;Albuquerque;341 Kiwi St
+Kylie;54;Louisville;351 Kumquat St
+Liam;60;Omaha;361 Passionfruit St
+Mia;65;Honolulu;371 Starfruit St
+Nate;61;Anchorage;381 Lychee St
+Oliver;67;Boise;391 Persimmon St
+Penny;62;Jacksonville;401 Mulberry St
+Quentin;69;Des Moines;411 Tangerine St
+Rose;64;Boulder;421 Coconut St
+Sam;68;Fargo;431 Mango St
+Tara;63;Charleston;441 Pineapple St
+Uma;70;Greenville;451 Grapefruit St
+Violet;75;Santa Fe;461 Honeydew St
+Will;71;Wichita;471 Cantaloupe St
+Xavier;78;Tucson;481 Watermelon St
+Yvonne;73;Santa Barbara;491 Papaya St
+Zoe;79;Scottsdale;501 Guava St
+Adam;74;Spokane;511 Kiwi St
+Becky;72;Syracuse;521 Kumquat St
+Charles;77;Tallahassee;531 Passionfruit St
+Diana;76;Trenton;541 Starfruit St
+Eric;80;Tulsa;551 Lychee St
+Fiona;85;Virginia Beach;561 Persimmon St
+George;81;Washington DC;571 Mulberry St
+Hannah;88;Wilmington;581 Tangerine St
+Ian;83;Winston-Salem;591 Coconut St
+Jill;89;Worcester;601 Mango St
+Kyle;84;Yellow Springs;611 Pineapple St
+Lana;87;Yakima;621 Grapefruit St
+Mike;82;Yonkers;631 Honeydew St
+Nina;90;Zanesville;641 Cantaloupe St
+Oscar;95;Bismarck;651 Watermelon St
+Pam;91;Casper;661 Papaya St
+Quincy;98;Dover;671 Guava St
+Rita;93;Eugene;681 Kiwi St
+Steve;99;Flagstaff;691 Kumquat St
+Tara;94;Gainesville;701 Passionfruit St
+Ulysses;97;Harrisburg;711 Starfruit St
+Vera;96;Idaho Falls;721 Lychee St
+Wade;100;Juneau;731 Persimmon St
+Xena;105;Kalamazoo;741 Mulberry St
+Yara;101;Lancaster;751 Tangerine St
+Zane;108;Mobile;761 Coconut St
+Ava;103;Olympia;771 Mango St
+Blake;109;Providence;781 Pineapple St
+Cara;104;Rochester;791 Grapefruit St
+Dave;107;Salem;801 Honeydew St
+Ella;110;Springfield;811 Cantaloupe St
+Felix;115;Topeka;821 Watermelon St
+Grace;111;Waco;831 Papaya St
+Hugo;118;Yuma;841 Guava St
+Ivy;113;Akron;851 Kiwi St
+Jude;119;Bakersfield;861 Kumquat St
+Kara;114;Chattanooga;871 Passionfruit St
+Leo;117;Davenport;881 Starfruit St
+Mia;120;El Paso;891 Lychee St
+Noah;125;Fresno;901 Persimmon St
+Olive;121;Gary;911 Mulberry St
+Pete;128;Hickory;921 Tangerine St
+Quinn;123;Ithaca;931 Coconut St
+Ryan;129;Joliet;941 Mango St
+Sara;124;Kokomo;951 Pineapple St
+Tom;127;Laredo;961 Grapefruit St
+Una;130;Madison;971 Honeydew St
+Vince;135;Nashua;981 Cantaloupe St
+Wendy;131;Oshkosh;991 Watermelon St
+Xander;138;Pensacola;1001 Papaya St
+Yara;133;Quincy;1011 Guava St
+Zack;139;Reno;1021 Kiwi St
+Amber;134;Savannah;1031 Kumquat St
+Ben;137;Tucson;1041 Passionfruit St
+Clara;140;Urbana;1051 Starfruit St
+Dean;145;Vero Beach;1061 Lychee St
+Emma;141;Walla Walla;1071 Persimmon St
+Finn;148;Xenia;1081 Mulberry St
+Gina;143;Yakima;1091 Tangerine St
+Hank;149;Zephyrhills;1101 Coconut St
+Ivy;144;Asheville;1111 Mango St
+Jake;147;Birmingham;1121 Pineapple St
+Kate;150;Cleveland;1131 Grapefruit St
+Liam;153;Dayton;1141 Honeydew St
+Mia;151;Erie;1151 Cantaloupe St
+Nate;156;Fayetteville;1161 Watermelon St
+Olivia;152;Gulfport;1171 Papaya St
+Paul;155;Hartford;1181 Guava St
+Quinn;157;Iowa City;1191 Kiwi St
+Rose;154;Johnson City;1201 Kumquat St
+Sam;159;Kalamazoo;1211 Passionfruit St
+Tina;165;Lafayette;1221 Starfruit St
+Ulysses;160;Manchester;1231 Lychee St
+Vera;167;Naples;1241 Persimmon St
+Will;163;Ocala;1251 Mulberry St
+Xena;169;Peoria;1261 Tangerine St
+Yara;170;Quad Cities;1271 Coconut St
+Zack;173;Rochester;1281 Mango St
+Alice;175;Syracuse;1291 Pineapple St
+Bob;171;Tallahassee;1301 Grapefruit St
+Charlie;178;Urbana;1311 Honeydew St
+David;174;Vero Beach;1321 Cantaloupe St
+Eve;179;Walla Walla;1331 Watermelon St
+Frank;180;Xenia;1341 Papaya St
+Grace;185;Yakima;1351 Guava St
+Helen;181;Zephyrhills;1361 Kiwi St
+Isaac;189;Asheville;1371 Kumquat St
+Jane;183;Birmingham;1381 Passionfruit St
+Kevin;190;Cleveland;1391 Starfruit St
+Lucy;187;Dayton;1401 Lychee St
+Michael;195;Erie;1411 Persimmon St
+Nancy;191;Fayetteville;1421 Mulberry St
+Olivia;198;Gulfport;1431 Tangerine St
+Paul;194;Hartford;1441 Coconut St
+Quinn;199;Iowa City;1451 Mango St
+Rachel;200;Kalamazoo;1461 Pineapple St
+Steve;205;Lafayette;1471 Grapefruit St
