@@ -2,9 +2,13 @@ class FormatUtility {
   static inputToArray(rawInput) {
     let array = [];
     for (const line of rawInput.split("\n")) {
-      array.push(line);
+      array.push(FormatUtility.removeReturnMask(line));
     }
     return array;
+  }
+
+  static removeReturnMask(line) {
+    return line.replace(/\r/g, "");
   }
 
   static replaceDelimiter(line) {
