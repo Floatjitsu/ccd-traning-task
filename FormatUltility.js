@@ -1,10 +1,8 @@
 class FormatUtility {
   static inputToArray(rawInput) {
-    let array = [];
-    for (const line of rawInput.split("\n")) {
-      array.push(FormatUtility.removeReturnMask(line));
-    }
-    return array;
+    return rawInput
+      .split("\n")
+      .map((line) => FormatUtility.removeReturnMask(line));
   }
 
   static removeReturnMask(line) {
